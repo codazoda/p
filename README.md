@@ -15,6 +15,14 @@ Pee is a simple language with a minimal set of functions but the hope is that it
 Pee is inspired by PHP and C but is not compatible with any of them. There is no goal to run a PHP program or a C program.
 
 
+## ADR's
+
+Here's a list of short and flexible decisions that could be outlined in more detail.
+
+- Pee is not object oriented
+- Pee is strongly typed
+
+
 ## Questions
 
 Lots of PHP functions have two different versions. Such as echo/print and die/exit as well as aliases. Do we want to pick one or allow alias?
