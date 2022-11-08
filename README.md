@@ -1,6 +1,6 @@
-# P
+# Pee
 
-The P programming language (plang).
+The Pee programming language.
 
 - C like
 - PHP inspired
